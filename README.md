@@ -1,1 +1,1 @@
-how to create a script
+system devops
