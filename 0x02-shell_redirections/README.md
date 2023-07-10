@@ -1,3 +1,1 @@
-Author
-RAMECK KIMANI
-MY PROJECT
+all directions redirect
